@@ -26,7 +26,7 @@ pip install -r requirements.txt```
 
 ## Capabilities
 
-##1, Added rate limiting, user agent rotation, and proxy ro-tation
-##2, Added logging
-##3, Add error handling
+## 1, Added rate limiting, user agent rotation, and proxy ro-tation
+## 2, Added logging
+## 3, Add error handling
 
