@@ -1,0 +1,1127 @@
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:52407/session/04bb146f0f3a1047f548ed26f546be1f/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:52407 "POST /session/04bb146f0f3a1047f548ed26f546be1f/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:52407/session/04bb146f0f3a1047f548ed26f546be1f/source {}
+DEBUG:urllib3.connectionpool:http://localhost:52407 "GET /session/04bb146f0f3a1047f548ed26f546be1f/source HTTP/1.1" 200 837334
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:52835/session/2f7393b66e0e7144eccd1e9dab652622/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:52835 "POST /session/2f7393b66e0e7144eccd1e9dab652622/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:52835/session/2f7393b66e0e7144eccd1e9dab652622/source {}
+DEBUG:urllib3.connectionpool:http://localhost:52835 "GET /session/2f7393b66e0e7144eccd1e9dab652622/source HTTP/1.1" 200 835577
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:53134/session/4905d0691e65ab1788492bc5892359ca/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:53134 "POST /session/4905d0691e65ab1788492bc5892359ca/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:53134/session/4905d0691e65ab1788492bc5892359ca/source {}
+DEBUG:urllib3.connectionpool:http://localhost:53134 "GET /session/4905d0691e65ab1788492bc5892359ca/source HTTP/1.1" 200 838144
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:53569/session/8fe53b78b2bdd57d404fbf7a1d61b680/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:53569 "POST /session/8fe53b78b2bdd57d404fbf7a1d61b680/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:53569/session/8fe53b78b2bdd57d404fbf7a1d61b680/source {}
+DEBUG:urllib3.connectionpool:http://localhost:53569 "GET /session/8fe53b78b2bdd57d404fbf7a1d61b680/source HTTP/1.1" 200 836213
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:53569/session/8fe53b78b2bdd57d404fbf7a1d61b680 {}
+DEBUG:urllib3.connectionpool:http://localhost:53569 "DELETE /session/8fe53b78b2bdd57d404fbf7a1d61b680 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:56435/session/3029c380822c8f135129d1e28869a3e7/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:56435 "POST /session/3029c380822c8f135129d1e28869a3e7/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:56435/session/3029c380822c8f135129d1e28869a3e7/source {}
+DEBUG:urllib3.connectionpool:http://localhost:56435 "GET /session/3029c380822c8f135129d1e28869a3e7/source HTTP/1.1" 200 836942
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:56435/session/3029c380822c8f135129d1e28869a3e7 {}
+DEBUG:urllib3.connectionpool:http://localhost:56435 "DELETE /session/3029c380822c8f135129d1e28869a3e7 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:57201/session/5d2a4655255e32545791a76ef7ec3172/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:57201 "POST /session/5d2a4655255e32545791a76ef7ec3172/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:57201/session/5d2a4655255e32545791a76ef7ec3172/source {}
+DEBUG:urllib3.connectionpool:http://localhost:57201 "GET /session/5d2a4655255e32545791a76ef7ec3172/source HTTP/1.1" 200 838164
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:57201/session/5d2a4655255e32545791a76ef7ec3172 {}
+DEBUG:urllib3.connectionpool:http://localhost:57201 "DELETE /session/5d2a4655255e32545791a76ef7ec3172 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58093/session/101dd56e0dbb92f34dcd22df8445eb92/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:58093 "POST /session/101dd56e0dbb92f34dcd22df8445eb92/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58093/session/101dd56e0dbb92f34dcd22df8445eb92/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58093 "GET /session/101dd56e0dbb92f34dcd22df8445eb92/source HTTP/1.1" 200 837077
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:58093/session/101dd56e0dbb92f34dcd22df8445eb92 {}
+DEBUG:urllib3.connectionpool:http://localhost:58093 "DELETE /session/101dd56e0dbb92f34dcd22df8445eb92 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60070/session/99e005854c0640add0312de0ec4b96f6/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:60070 "POST /session/99e005854c0640add0312de0ec4b96f6/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:60070/session/99e005854c0640add0312de0ec4b96f6/source {}
+DEBUG:urllib3.connectionpool:http://localhost:60070 "GET /session/99e005854c0640add0312de0ec4b96f6/source HTTP/1.1" 200 837524
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60876/session/73bf31cffb6fd551a09cd68739c3b125/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:60876 "POST /session/73bf31cffb6fd551a09cd68739c3b125/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:60876/session/73bf31cffb6fd551a09cd68739c3b125/source {}
+DEBUG:urllib3.connectionpool:http://localhost:60876 "GET /session/73bf31cffb6fd551a09cd68739c3b125/source HTTP/1.1" 200 837326
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61349/session/5b492bfa136ca023e0962fe17d696b18/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:61349 "POST /session/5b492bfa136ca023e0962fe17d696b18/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:61349/session/5b492bfa136ca023e0962fe17d696b18/source {}
+DEBUG:urllib3.connectionpool:http://localhost:61349 "GET /session/5b492bfa136ca023e0962fe17d696b18/source HTTP/1.1" 200 709342
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63869/session/17e8e4c0af963c9ba94609e5a6c2d774/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:63869 "POST /session/17e8e4c0af963c9ba94609e5a6c2d774/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:63869/session/17e8e4c0af963c9ba94609e5a6c2d774/source {}
+DEBUG:urllib3.connectionpool:http://localhost:63869 "GET /session/17e8e4c0af963c9ba94609e5a6c2d774/source HTTP/1.1" 200 836742
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:63869/session/17e8e4c0af963c9ba94609e5a6c2d774 {}
+DEBUG:urllib3.connectionpool:http://localhost:63869 "DELETE /session/17e8e4c0af963c9ba94609e5a6c2d774 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:64140/session/6fbfafbcb945a2d2ab0a32edec5fc024/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:64140 "POST /session/6fbfafbcb945a2d2ab0a32edec5fc024/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:64140/session/6fbfafbcb945a2d2ab0a32edec5fc024/source {}
+DEBUG:urllib3.connectionpool:http://localhost:64140 "GET /session/6fbfafbcb945a2d2ab0a32edec5fc024/source HTTP/1.1" 200 836787
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:64140/session/6fbfafbcb945a2d2ab0a32edec5fc024 {}
+DEBUG:urllib3.connectionpool:http://localhost:64140 "DELETE /session/6fbfafbcb945a2d2ab0a32edec5fc024 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:64415/session/8ccf705d456ead174c01f928b3806838/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:64415 "POST /session/8ccf705d456ead174c01f928b3806838/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:64415/session/8ccf705d456ead174c01f928b3806838/source {}
+DEBUG:urllib3.connectionpool:http://localhost:64415 "GET /session/8ccf705d456ead174c01f928b3806838/source HTTP/1.1" 200 836692
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:65002/session/cff55ea56ec650398d475dedd4bb2c7b/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:65002 "POST /session/cff55ea56ec650398d475dedd4bb2c7b/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:65002/session/cff55ea56ec650398d475dedd4bb2c7b/source {}
+DEBUG:urllib3.connectionpool:http://localhost:65002 "GET /session/cff55ea56ec650398d475dedd4bb2c7b/source HTTP/1.1" 200 838224
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:65002/session/cff55ea56ec650398d475dedd4bb2c7b {}
+DEBUG:urllib3.connectionpool:http://localhost:65002 "DELETE /session/cff55ea56ec650398d475dedd4bb2c7b HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:49273/session/24aef173794eb39ab318df7e36527247/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:49273 "POST /session/24aef173794eb39ab318df7e36527247/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:49273/session/24aef173794eb39ab318df7e36527247/source {}
+DEBUG:urllib3.connectionpool:http://localhost:49273 "GET /session/24aef173794eb39ab318df7e36527247/source HTTP/1.1" 200 709409
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:49273/session/24aef173794eb39ab318df7e36527247 {}
+DEBUG:urllib3.connectionpool:http://localhost:49273 "DELETE /session/24aef173794eb39ab318df7e36527247 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:50232/session/c1d5a52f1b76a68dd17f7b45f3a4b56f/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:50232 "POST /session/c1d5a52f1b76a68dd17f7b45f3a4b56f/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:50232/session/c1d5a52f1b76a68dd17f7b45f3a4b56f/source {}
+DEBUG:urllib3.connectionpool:http://localhost:50232 "GET /session/c1d5a52f1b76a68dd17f7b45f3a4b56f/source HTTP/1.1" 200 837408
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:50232/session/c1d5a52f1b76a68dd17f7b45f3a4b56f {}
+DEBUG:urllib3.connectionpool:http://localhost:50232 "DELETE /session/c1d5a52f1b76a68dd17f7b45f3a4b56f HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:52192/session/079c609fde04640ca218da916cc4c840/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:52192 "POST /session/079c609fde04640ca218da916cc4c840/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:52192/session/079c609fde04640ca218da916cc4c840/source {}
+DEBUG:urllib3.connectionpool:http://localhost:52192 "GET /session/079c609fde04640ca218da916cc4c840/source HTTP/1.1" 200 837398
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:52724/session/56631f7ddeed50cd8592bbf7539b9601/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:52724 "POST /session/56631f7ddeed50cd8592bbf7539b9601/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:52724/session/56631f7ddeed50cd8592bbf7539b9601/source {}
+DEBUG:urllib3.connectionpool:http://localhost:52724 "GET /session/56631f7ddeed50cd8592bbf7539b9601/source HTTP/1.1" 200 837408
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:52724/session/56631f7ddeed50cd8592bbf7539b9601 {}
+DEBUG:urllib3.connectionpool:http://localhost:52724 "DELETE /session/56631f7ddeed50cd8592bbf7539b9601 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:54059/session/0e9305a99b3ff5d62e6ae8938d4d5d8d/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:54059 "POST /session/0e9305a99b3ff5d62e6ae8938d4d5d8d/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:54059/session/0e9305a99b3ff5d62e6ae8938d4d5d8d/source {}
+DEBUG:urllib3.connectionpool:http://localhost:54059 "GET /session/0e9305a99b3ff5d62e6ae8938d4d5d8d/source HTTP/1.1" 200 837161
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:54678/session/85940fed7b9333f14097ed74fbdf2c34/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:54678 "POST /session/85940fed7b9333f14097ed74fbdf2c34/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:54678/session/85940fed7b9333f14097ed74fbdf2c34/source {}
+DEBUG:urllib3.connectionpool:http://localhost:54678 "GET /session/85940fed7b9333f14097ed74fbdf2c34/source HTTP/1.1" 200 837332
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:54678/session/85940fed7b9333f14097ed74fbdf2c34 {}
+DEBUG:urllib3.connectionpool:http://localhost:54678 "DELETE /session/85940fed7b9333f14097ed74fbdf2c34 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:55721/session/bb03c90691ca66603cc8a0dbc5bae5fb/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:55721 "POST /session/bb03c90691ca66603cc8a0dbc5bae5fb/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:55721/session/bb03c90691ca66603cc8a0dbc5bae5fb/source {}
+DEBUG:urllib3.connectionpool:http://localhost:55721 "GET /session/bb03c90691ca66603cc8a0dbc5bae5fb/source HTTP/1.1" 200 838161
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:55840/session/a4ae60106732f3719374439618601946/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:55840 "POST /session/a4ae60106732f3719374439618601946/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:55840/session/a4ae60106732f3719374439618601946/source {}
+DEBUG:urllib3.connectionpool:http://localhost:55840 "GET /session/a4ae60106732f3719374439618601946/source HTTP/1.1" 200 837334
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:55914/session/ae410521d02eaaa20a256254f1c72a16/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:55914 "POST /session/ae410521d02eaaa20a256254f1c72a16/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:55914/session/ae410521d02eaaa20a256254f1c72a16/source {}
+DEBUG:urllib3.connectionpool:http://localhost:55914 "GET /session/ae410521d02eaaa20a256254f1c72a16/source HTTP/1.1" 200 836571
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:56137/session/0a2dd1c4ec0e2546dd0aabaecefe4fd8/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:56137 "POST /session/0a2dd1c4ec0e2546dd0aabaecefe4fd8/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:56137/session/0a2dd1c4ec0e2546dd0aabaecefe4fd8/source {}
+DEBUG:urllib3.connectionpool:http://localhost:56137 "GET /session/0a2dd1c4ec0e2546dd0aabaecefe4fd8/source HTTP/1.1" 200 836035
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:56326/session/f0614137b84fdf3437c1af6cee3f85e8/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:56326 "POST /session/f0614137b84fdf3437c1af6cee3f85e8/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:56326/session/f0614137b84fdf3437c1af6cee3f85e8/source {}
+DEBUG:urllib3.connectionpool:http://localhost:56326 "GET /session/f0614137b84fdf3437c1af6cee3f85e8/source HTTP/1.1" 200 835903
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:56477/session/6e80f35c0c6585fa4c5f1c29e32ea718/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:56477 "POST /session/6e80f35c0c6585fa4c5f1c29e32ea718/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:56477/session/6e80f35c0c6585fa4c5f1c29e32ea718/source {}
+DEBUG:urllib3.connectionpool:http://localhost:56477 "GET /session/6e80f35c0c6585fa4c5f1c29e32ea718/source HTTP/1.1" 200 837416
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:56477/session/6e80f35c0c6585fa4c5f1c29e32ea718 {}
+DEBUG:urllib3.connectionpool:http://localhost:56477 "DELETE /session/6e80f35c0c6585fa4c5f1c29e32ea718 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:56535/session/61efbf05b2c39e9ffc5e20172c24547e/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:56535 "POST /session/61efbf05b2c39e9ffc5e20172c24547e/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:56535/session/61efbf05b2c39e9ffc5e20172c24547e/source {}
+DEBUG:urllib3.connectionpool:http://localhost:56535 "GET /session/61efbf05b2c39e9ffc5e20172c24547e/source HTTP/1.1" 200 837971
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:56667/session/000186c7b5fcdc08c39e04bde5083bc3/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:56667 "POST /session/000186c7b5fcdc08c39e04bde5083bc3/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:56667/session/000186c7b5fcdc08c39e04bde5083bc3/source {}
+DEBUG:urllib3.connectionpool:http://localhost:56667 "GET /session/000186c7b5fcdc08c39e04bde5083bc3/source HTTP/1.1" 200 835903
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:56667/session/000186c7b5fcdc08c39e04bde5083bc3 {}
+DEBUG:urllib3.connectionpool:http://localhost:56667 "DELETE /session/000186c7b5fcdc08c39e04bde5083bc3 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:56741/session/7407df1928a2562d5eb2c0e2e3ff1654/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:56741 "POST /session/7407df1928a2562d5eb2c0e2e3ff1654/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:56741/session/7407df1928a2562d5eb2c0e2e3ff1654/source {}
+DEBUG:urllib3.connectionpool:http://localhost:56741 "GET /session/7407df1928a2562d5eb2c0e2e3ff1654/source HTTP/1.1" 200 710446
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:56855/session/f9c85e0ffa77dde74515fec48310c180/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:56855 "POST /session/f9c85e0ffa77dde74515fec48310c180/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:56855/session/f9c85e0ffa77dde74515fec48310c180/source {}
+DEBUG:urllib3.connectionpool:http://localhost:56855 "GET /session/f9c85e0ffa77dde74515fec48310c180/source HTTP/1.1" 200 836873
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:56998/session/2e763d89d659483b72596b8f69180656/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:56998 "POST /session/2e763d89d659483b72596b8f69180656/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:56998/session/2e763d89d659483b72596b8f69180656/source {}
+DEBUG:urllib3.connectionpool:http://localhost:56998 "GET /session/2e763d89d659483b72596b8f69180656/source HTTP/1.1" 200 838066
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:56998/session/2e763d89d659483b72596b8f69180656 {}
+DEBUG:urllib3.connectionpool:http://localhost:56998 "DELETE /session/2e763d89d659483b72596b8f69180656 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:57090/session/11ae9f7d543ac381673ce8a01ec0818d/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:57090 "POST /session/11ae9f7d543ac381673ce8a01ec0818d/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:57090/session/11ae9f7d543ac381673ce8a01ec0818d/source {}
+DEBUG:urllib3.connectionpool:http://localhost:57090 "GET /session/11ae9f7d543ac381673ce8a01ec0818d/source HTTP/1.1" 200 837341
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:57090/session/11ae9f7d543ac381673ce8a01ec0818d {}
+DEBUG:urllib3.connectionpool:http://localhost:57090 "DELETE /session/11ae9f7d543ac381673ce8a01ec0818d HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:57182/session/8eed6551a0f3b49e5f80be7a5172f21b/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:57182 "POST /session/8eed6551a0f3b49e5f80be7a5172f21b/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:57182/session/8eed6551a0f3b49e5f80be7a5172f21b/source {}
+DEBUG:urllib3.connectionpool:http://localhost:57182 "GET /session/8eed6551a0f3b49e5f80be7a5172f21b/source HTTP/1.1" 200 837069
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:57332/session/0beff01fca4a8c7f9b8e19e38430d4de/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:57332 "POST /session/0beff01fca4a8c7f9b8e19e38430d4de/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:57332/session/0beff01fca4a8c7f9b8e19e38430d4de/source {}
+DEBUG:urllib3.connectionpool:http://localhost:57332 "GET /session/0beff01fca4a8c7f9b8e19e38430d4de/source HTTP/1.1" 200 836950
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:57332/session/0beff01fca4a8c7f9b8e19e38430d4de {}
+DEBUG:urllib3.connectionpool:http://localhost:57332 "DELETE /session/0beff01fca4a8c7f9b8e19e38430d4de HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:57398/session/a9d3df312dcb72af41f9e444250e27a8/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:57398 "POST /session/a9d3df312dcb72af41f9e444250e27a8/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:57398/session/a9d3df312dcb72af41f9e444250e27a8/source {}
+DEBUG:urllib3.connectionpool:http://localhost:57398 "GET /session/a9d3df312dcb72af41f9e444250e27a8/source HTTP/1.1" 200 836944
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:57398/session/a9d3df312dcb72af41f9e444250e27a8 {}
+DEBUG:urllib3.connectionpool:http://localhost:57398 "DELETE /session/a9d3df312dcb72af41f9e444250e27a8 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:57792/session/59594652157d5c45edc957cfe0cc0514/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:57792 "POST /session/59594652157d5c45edc957cfe0cc0514/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:57792/session/59594652157d5c45edc957cfe0cc0514/source {}
+DEBUG:urllib3.connectionpool:http://localhost:57792 "GET /session/59594652157d5c45edc957cfe0cc0514/source HTTP/1.1" 200 838221
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:57792/session/59594652157d5c45edc957cfe0cc0514/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=2"}
+DEBUG:urllib3.connectionpool:http://localhost:57792 "POST /session/59594652157d5c45edc957cfe0cc0514/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:57792/session/59594652157d5c45edc957cfe0cc0514/source {}
+DEBUG:urllib3.connectionpool:http://localhost:57792 "GET /session/59594652157d5c45edc957cfe0cc0514/source HTTP/1.1" 200 12851
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:57926/session/e1efb0ab807df7d89dac6b2b086f5f0b/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:57926 "POST /session/e1efb0ab807df7d89dac6b2b086f5f0b/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:57926/session/e1efb0ab807df7d89dac6b2b086f5f0b/source {}
+DEBUG:urllib3.connectionpool:http://localhost:57926 "GET /session/e1efb0ab807df7d89dac6b2b086f5f0b/source HTTP/1.1" 200 837267
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:57926/session/e1efb0ab807df7d89dac6b2b086f5f0b/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=2"}
+DEBUG:urllib3.connectionpool:http://localhost:57926 "POST /session/e1efb0ab807df7d89dac6b2b086f5f0b/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:57926/session/e1efb0ab807df7d89dac6b2b086f5f0b/source {}
+DEBUG:urllib3.connectionpool:http://localhost:57926 "GET /session/e1efb0ab807df7d89dac6b2b086f5f0b/source HTTP/1.1" 200 12903
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "POST /session/34aa094f2442b0b6d9e307850888f769/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "GET /session/34aa094f2442b0b6d9e307850888f769/source HTTP/1.1" 200 837321
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=2"}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "POST /session/34aa094f2442b0b6d9e307850888f769/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "GET /session/34aa094f2442b0b6d9e307850888f769/source HTTP/1.1" 200 12922
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=3"}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "POST /session/34aa094f2442b0b6d9e307850888f769/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "GET /session/34aa094f2442b0b6d9e307850888f769/source HTTP/1.1" 200 12967
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=4"}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "POST /session/34aa094f2442b0b6d9e307850888f769/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "GET /session/34aa094f2442b0b6d9e307850888f769/source HTTP/1.1" 200 12967
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=5"}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "POST /session/34aa094f2442b0b6d9e307850888f769/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "GET /session/34aa094f2442b0b6d9e307850888f769/source HTTP/1.1" 200 12967
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=6"}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "POST /session/34aa094f2442b0b6d9e307850888f769/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "GET /session/34aa094f2442b0b6d9e307850888f769/source HTTP/1.1" 200 12967
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=7"}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "POST /session/34aa094f2442b0b6d9e307850888f769/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "GET /session/34aa094f2442b0b6d9e307850888f769/source HTTP/1.1" 200 12945
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=8"}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "POST /session/34aa094f2442b0b6d9e307850888f769/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "GET /session/34aa094f2442b0b6d9e307850888f769/source HTTP/1.1" 200 12967
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58181/session/34aa094f2442b0b6d9e307850888f769/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=9"}
+DEBUG:urllib3.connectionpool:http://localhost:58181 "POST /session/34aa094f2442b0b6d9e307850888f769/url HTTP/1.1" 404 1753
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58325/session/41b90510425f98652f14236941297294/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "POST /session/41b90510425f98652f14236941297294/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58325/session/41b90510425f98652f14236941297294/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "GET /session/41b90510425f98652f14236941297294/source HTTP/1.1" 200 837953
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58325/session/41b90510425f98652f14236941297294/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=2"}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "POST /session/41b90510425f98652f14236941297294/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58325/session/41b90510425f98652f14236941297294/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "GET /session/41b90510425f98652f14236941297294/source HTTP/1.1" 200 12833
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58325/session/41b90510425f98652f14236941297294/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=3"}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "POST /session/41b90510425f98652f14236941297294/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58325/session/41b90510425f98652f14236941297294/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "GET /session/41b90510425f98652f14236941297294/source HTTP/1.1" 200 12853
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58325/session/41b90510425f98652f14236941297294/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=4"}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "POST /session/41b90510425f98652f14236941297294/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58325/session/41b90510425f98652f14236941297294/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "GET /session/41b90510425f98652f14236941297294/source HTTP/1.1" 200 12876
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58325/session/41b90510425f98652f14236941297294/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=5"}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "POST /session/41b90510425f98652f14236941297294/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58325/session/41b90510425f98652f14236941297294/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "GET /session/41b90510425f98652f14236941297294/source HTTP/1.1" 200 12810
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58325/session/41b90510425f98652f14236941297294/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=6"}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "POST /session/41b90510425f98652f14236941297294/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58325/session/41b90510425f98652f14236941297294/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "GET /session/41b90510425f98652f14236941297294/source HTTP/1.1" 200 12833
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58325/session/41b90510425f98652f14236941297294/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=7"}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "POST /session/41b90510425f98652f14236941297294/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58325/session/41b90510425f98652f14236941297294/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "GET /session/41b90510425f98652f14236941297294/source HTTP/1.1" 200 12854
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58325/session/41b90510425f98652f14236941297294/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=8"}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "POST /session/41b90510425f98652f14236941297294/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58325/session/41b90510425f98652f14236941297294/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "GET /session/41b90510425f98652f14236941297294/source HTTP/1.1" 200 12854
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58325/session/41b90510425f98652f14236941297294/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=9"}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "POST /session/41b90510425f98652f14236941297294/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58325/session/41b90510425f98652f14236941297294/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58325 "GET /session/41b90510425f98652f14236941297294/source HTTP/1.1" 200 12854
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58477/session/6d585c130b96583adf03ba5ba4e658bd/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:58477 "POST /session/6d585c130b96583adf03ba5ba4e658bd/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58477/session/6d585c130b96583adf03ba5ba4e658bd/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58477 "GET /session/6d585c130b96583adf03ba5ba4e658bd/source HTTP/1.1" 200 835903
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58477/session/6d585c130b96583adf03ba5ba4e658bd/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=2"}
+DEBUG:urllib3.connectionpool:http://localhost:58477 "POST /session/6d585c130b96583adf03ba5ba4e658bd/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58477/session/6d585c130b96583adf03ba5ba4e658bd/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58477 "GET /session/6d585c130b96583adf03ba5ba4e658bd/source HTTP/1.1" 200 13001
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58477/session/6d585c130b96583adf03ba5ba4e658bd/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=3"}
+DEBUG:urllib3.connectionpool:http://localhost:58477 "POST /session/6d585c130b96583adf03ba5ba4e658bd/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58477/session/6d585c130b96583adf03ba5ba4e658bd/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58477 "GET /session/6d585c130b96583adf03ba5ba4e658bd/source HTTP/1.1" 200 12967
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58477/session/6d585c130b96583adf03ba5ba4e658bd/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=4"}
+DEBUG:urllib3.connectionpool:http://localhost:58477 "POST /session/6d585c130b96583adf03ba5ba4e658bd/url HTTP/1.1" 404 1753
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58781/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; ru-ru) AppleWebKit/525.27.1 (KHTML, like Gecko) Version/3.2.1 Safari/525.27.1"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:58781
+DEBUG:urllib3.connectionpool:http://localhost:58781 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58798/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.7) Gecko/20061014 Firefox/1.5.0.7"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:58798
+DEBUG:urllib3.connectionpool:http://localhost:58798 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58798/session/e22a774e264d3961b7d82d32e7f519ab/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:58798 "POST /session/e22a774e264d3961b7d82d32e7f519ab/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58798/session/e22a774e264d3961b7d82d32e7f519ab/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58798 "GET /session/e22a774e264d3961b7d82d32e7f519ab/source HTTP/1.1" 200 837310
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:58798/session/e22a774e264d3961b7d82d32e7f519ab {}
+DEBUG:urllib3.connectionpool:http://localhost:58798 "DELETE /session/e22a774e264d3961b7d82d32e7f519ab HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58885/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Opera/9.50 (X11; Linux i686; U; es-ES)"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:58885
+DEBUG:urllib3.connectionpool:http://localhost:58885 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58885/session/f898f9c4c97b6681f48752ec63a8717f/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=2"}
+DEBUG:urllib3.connectionpool:http://localhost:58885 "POST /session/f898f9c4c97b6681f48752ec63a8717f/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58885/session/f898f9c4c97b6681f48752ec63a8717f/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58885 "GET /session/f898f9c4c97b6681f48752ec63a8717f/source HTTP/1.1" 200 813113
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:58885/session/f898f9c4c97b6681f48752ec63a8717f {}
+DEBUG:urllib3.connectionpool:http://localhost:58885 "DELETE /session/f898f9c4c97b6681f48752ec63a8717f HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58952/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; Hotbar 3.0)"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:58952
+DEBUG:urllib3.connectionpool:http://localhost:58952 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58952/session/b4e652b044027de25e613722627a66b6/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=3"}
+DEBUG:urllib3.connectionpool:http://localhost:58952 "POST /session/b4e652b044027de25e613722627a66b6/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58952/session/b4e652b044027de25e613722627a66b6/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58952 "GET /session/b4e652b044027de25e613722627a66b6/source HTTP/1.1" 200 808154
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:58952/session/b4e652b044027de25e613722627a66b6 {}
+DEBUG:urllib3.connectionpool:http://localhost:58952 "DELETE /session/b4e652b044027de25e613722627a66b6 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58998/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14931"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:58998
+DEBUG:urllib3.connectionpool:http://localhost:58998 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:58998/session/fa0fa4001a9f20b70d191bdeb82a214d/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=4"}
+DEBUG:urllib3.connectionpool:http://localhost:58998 "POST /session/fa0fa4001a9f20b70d191bdeb82a214d/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:58998/session/fa0fa4001a9f20b70d191bdeb82a214d/source {}
+DEBUG:urllib3.connectionpool:http://localhost:58998 "GET /session/fa0fa4001a9f20b70d191bdeb82a214d/source HTTP/1.1" 200 810394
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:58998/session/fa0fa4001a9f20b70d191bdeb82a214d {}
+DEBUG:urllib3.connectionpool:http://localhost:58998 "DELETE /session/fa0fa4001a9f20b70d191bdeb82a214d HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59064/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; YComp 5.0.0.0)"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:59064
+DEBUG:urllib3.connectionpool:http://localhost:59064 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59064/session/ffa9eb04b6f442b1762eeaea0e14c876/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:59064 "POST /session/ffa9eb04b6f442b1762eeaea0e14c876/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:59064/session/ffa9eb04b6f442b1762eeaea0e14c876/source {}
+DEBUG:urllib3.connectionpool:http://localhost:59064 "GET /session/ffa9eb04b6f442b1762eeaea0e14c876/source HTTP/1.1" 200 835748
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:59064/session/ffa9eb04b6f442b1762eeaea0e14c876 {}
+DEBUG:urllib3.connectionpool:http://localhost:59064 "DELETE /session/ffa9eb04b6f442b1762eeaea0e14c876 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59111/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; IT) Opera 8.0"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:59111
+DEBUG:urllib3.connectionpool:http://localhost:59111 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59111/session/2650c09536c8b499ce2195b976dc05fd/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=2"}
+DEBUG:urllib3.connectionpool:http://localhost:59111 "POST /session/2650c09536c8b499ce2195b976dc05fd/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:59111/session/2650c09536c8b499ce2195b976dc05fd/source {}
+DEBUG:urllib3.connectionpool:http://localhost:59111 "GET /session/2650c09536c8b499ce2195b976dc05fd/source HTTP/1.1" 200 813915
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:59111/session/2650c09536c8b499ce2195b976dc05fd {}
+DEBUG:urllib3.connectionpool:http://localhost:59111 "DELETE /session/2650c09536c8b499ce2195b976dc05fd HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59200/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Opera/9.61 (Windows NT 5.1; U; zh-cn) Presto/2.1.1"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:59200
+DEBUG:urllib3.connectionpool:http://localhost:59200 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59200/session/496bf87beace77442a018b55b793e678/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=3"}
+DEBUG:urllib3.connectionpool:http://localhost:59200 "POST /session/496bf87beace77442a018b55b793e678/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:59200/session/496bf87beace77442a018b55b793e678/source {}
+DEBUG:urllib3.connectionpool:http://localhost:59200 "GET /session/496bf87beace77442a018b55b793e678/source HTTP/1.1" 200 803248
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:59200/session/496bf87beace77442a018b55b793e678 {}
+DEBUG:urllib3.connectionpool:http://localhost:59200 "DELETE /session/496bf87beace77442a018b55b793e678 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59287/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X; de-de) AppleWebKit/125.2 (KHTML, like Gecko) Safari/125.7"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:59287
+DEBUG:urllib3.connectionpool:http://localhost:59287 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59287/session/e315525e8520e079c44f5a337c69736e/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=4"}
+DEBUG:urllib3.connectionpool:http://localhost:59287 "POST /session/e315525e8520e079c44f5a337c69736e/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:59287/session/e315525e8520e079c44f5a337c69736e/source {}
+DEBUG:urllib3.connectionpool:http://localhost:59287 "GET /session/e315525e8520e079c44f5a337c69736e/source HTTP/1.1" 200 799312
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:59287/session/e315525e8520e079c44f5a337c69736e {}
+DEBUG:urllib3.connectionpool:http://localhost:59287 "DELETE /session/e315525e8520e079c44f5a337c69736e HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59340/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9.2.11) Gecko/20101013 Ubuntu/10.10 (maverick) Firefox/3.6.10"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:59340
+DEBUG:urllib3.connectionpool:http://localhost:59340 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59340/session/170158c2180cbf6bfc86645b9275bb12/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=5"}
+DEBUG:urllib3.connectionpool:http://localhost:59340 "POST /session/170158c2180cbf6bfc86645b9275bb12/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:59340/session/170158c2180cbf6bfc86645b9275bb12/source {}
+DEBUG:urllib3.connectionpool:http://localhost:59340 "GET /session/170158c2180cbf6bfc86645b9275bb12/source HTTP/1.1" 200 805585
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:59340/session/170158c2180cbf6bfc86645b9275bb12 {}
+DEBUG:urllib3.connectionpool:http://localhost:59340 "DELETE /session/170158c2180cbf6bfc86645b9275bb12 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59401/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Opera/9.80 (Windows NT 5.2; U; ru) Presto/2.6.30 Version/10.61"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:59401
+DEBUG:urllib3.connectionpool:http://localhost:59401 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59401/session/043ae63ee361916623e94e00f75671c2/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=6"}
+DEBUG:urllib3.connectionpool:http://localhost:59401 "POST /session/043ae63ee361916623e94e00f75671c2/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:59401/session/043ae63ee361916623e94e00f75671c2/source {}
+DEBUG:urllib3.connectionpool:http://localhost:59401 "GET /session/043ae63ee361916623e94e00f75671c2/source HTTP/1.1" 200 810185
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:59401/session/043ae63ee361916623e94e00f75671c2 {}
+DEBUG:urllib3.connectionpool:http://localhost:59401 "DELETE /session/043ae63ee361916623e94e00f75671c2 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59457/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (X11; U; Linux i686; tr-TR; rv:1.9b5) Gecko/2008032600 SUSE/2.9.95-25.1 Firefox/3.0b5"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:59457
+DEBUG:urllib3.connectionpool:http://localhost:59457 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59457/session/df43799aa214e0fbfdf8808d6892d765/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=7"}
+DEBUG:urllib3.connectionpool:http://localhost:59457 "POST /session/df43799aa214e0fbfdf8808d6892d765/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:59457/session/df43799aa214e0fbfdf8808d6892d765/source {}
+DEBUG:urllib3.connectionpool:http://localhost:59457 "GET /session/df43799aa214e0fbfdf8808d6892d765/source HTTP/1.1" 200 806336
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:59457/session/df43799aa214e0fbfdf8808d6892d765 {}
+DEBUG:urllib3.connectionpool:http://localhost:59457 "DELETE /session/df43799aa214e0fbfdf8808d6892d765 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59512/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.370.0 Safari/533.4"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:59512
+DEBUG:urllib3.connectionpool:http://localhost:59512 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59512/session/125044ce7c5570d3b61ed2ab386f243e/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=8"}
+DEBUG:urllib3.connectionpool:http://localhost:59512 "POST /session/125044ce7c5570d3b61ed2ab386f243e/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:59512/session/125044ce7c5570d3b61ed2ab386f243e/source {}
+DEBUG:urllib3.connectionpool:http://localhost:59512 "GET /session/125044ce7c5570d3b61ed2ab386f243e/source HTTP/1.1" 200 809953
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:59512/session/125044ce7c5570d3b61ed2ab386f243e {}
+DEBUG:urllib3.connectionpool:http://localhost:59512 "DELETE /session/125044ce7c5570d3b61ed2ab386f243e HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59567/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Opera/9.20 (X11; Linux ppc; U; en)"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:59567
+DEBUG:urllib3.connectionpool:http://localhost:59567 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59567/session/323bc0168c460d10791505a31367a47a/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=9"}
+DEBUG:urllib3.connectionpool:http://localhost:59567 "POST /session/323bc0168c460d10791505a31367a47a/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:59567/session/323bc0168c460d10791505a31367a47a/source {}
+DEBUG:urllib3.connectionpool:http://localhost:59567 "GET /session/323bc0168c460d10791505a31367a47a/source HTTP/1.1" 200 805478
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:59567/session/323bc0168c460d10791505a31367a47a {}
+DEBUG:urllib3.connectionpool:http://localhost:59567 "DELETE /session/323bc0168c460d10791505a31367a47a HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59652/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (X11; U; Linux x86_64; pt-BR; rv:1.9b5) Gecko/2008041515 Firefox/3.0b5"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:59652
+DEBUG:urllib3.connectionpool:http://localhost:59652 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59652/session/ff94c1417824722860234fe3c03fb405/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=10"}
+DEBUG:urllib3.connectionpool:http://localhost:59652 "POST /session/ff94c1417824722860234fe3c03fb405/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:59652/session/ff94c1417824722860234fe3c03fb405/source {}
+DEBUG:urllib3.connectionpool:http://localhost:59652 "GET /session/ff94c1417824722860234fe3c03fb405/source HTTP/1.1" 200 804535
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:59652/session/ff94c1417824722860234fe3c03fb405 {}
+DEBUG:urllib3.connectionpool:http://localhost:59652 "DELETE /session/ff94c1417824722860234fe3c03fb405 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59702/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (X11; U; Linux i686; it; rv:1.9) Gecko/2008061015 Firefox/3.0"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:59702
+DEBUG:urllib3.connectionpool:http://localhost:59702 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59702/session/4a71be819bf97fddbdafcca2e968df7e/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=11"}
+DEBUG:urllib3.connectionpool:http://localhost:59702 "POST /session/4a71be819bf97fddbdafcca2e968df7e/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:59702/session/4a71be819bf97fddbdafcca2e968df7e/source {}
+DEBUG:urllib3.connectionpool:http://localhost:59702 "GET /session/4a71be819bf97fddbdafcca2e968df7e/source HTTP/1.1" 200 802839
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:59702/session/4a71be819bf97fddbdafcca2e968df7e {}
+DEBUG:urllib3.connectionpool:http://localhost:59702 "DELETE /session/4a71be819bf97fddbdafcca2e968df7e HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59771/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/4.0 (Windows;  MSIE 6.0;  Windows NT 5.1;  SV1; .NET CLR 2.0.50727)"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:59771
+DEBUG:urllib3.connectionpool:http://localhost:59771 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59771/session/962d0b5da3eeb14590da37505491da31/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=12"}
+DEBUG:urllib3.connectionpool:http://localhost:59771 "POST /session/962d0b5da3eeb14590da37505491da31/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:59771/session/962d0b5da3eeb14590da37505491da31/source {}
+DEBUG:urllib3.connectionpool:http://localhost:59771 "GET /session/962d0b5da3eeb14590da37505491da31/source HTTP/1.1" 200 800388
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:59771/session/962d0b5da3eeb14590da37505491da31 {}
+DEBUG:urllib3.connectionpool:http://localhost:59771 "DELETE /session/962d0b5da3eeb14590da37505491da31 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59829/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Opera/9.80 (Windows NT 6.1; U; fr) Presto/2.5.24 Version/10.52"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:59829
+DEBUG:urllib3.connectionpool:http://localhost:59829 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59829/session/861942737aa57f555a4650a48e5a7d22/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=13"}
+DEBUG:urllib3.connectionpool:http://localhost:59829 "POST /session/861942737aa57f555a4650a48e5a7d22/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:59829/session/861942737aa57f555a4650a48e5a7d22/source {}
+DEBUG:urllib3.connectionpool:http://localhost:59829 "GET /session/861942737aa57f555a4650a48e5a7d22/source HTTP/1.1" 200 804594
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:59829/session/861942737aa57f555a4650a48e5a7d22 {}
+DEBUG:urllib3.connectionpool:http://localhost:59829 "DELETE /session/861942737aa57f555a4650a48e5a7d22 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59883/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; Sprint;PPC-i830; PPC; 240x320)"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:59883
+DEBUG:urllib3.connectionpool:http://localhost:59883 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59883/session/8095dd35e9ff4c19902d47949283426e/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=14"}
+DEBUG:urllib3.connectionpool:http://localhost:59883 "POST /session/8095dd35e9ff4c19902d47949283426e/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:59883/session/8095dd35e9ff4c19902d47949283426e/source {}
+DEBUG:urllib3.connectionpool:http://localhost:59883 "GET /session/8095dd35e9ff4c19902d47949283426e/source HTTP/1.1" 200 807165
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:59883/session/8095dd35e9ff4c19902d47949283426e {}
+DEBUG:urllib3.connectionpool:http://localhost:59883 "DELETE /session/8095dd35e9ff4c19902d47949283426e HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59953/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; en) AppleWebKit/522.12.1 (KHTML, like Gecko) Version/3.0.1 Safari/522.12.2"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:59953
+DEBUG:urllib3.connectionpool:http://localhost:59953 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:59953/session/fd67d5a71502565d68f232dd7b048a9f/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=15"}
+DEBUG:urllib3.connectionpool:http://localhost:59953 "POST /session/fd67d5a71502565d68f232dd7b048a9f/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:59953/session/fd67d5a71502565d68f232dd7b048a9f/source {}
+DEBUG:urllib3.connectionpool:http://localhost:59953 "GET /session/fd67d5a71502565d68f232dd7b048a9f/source HTTP/1.1" 200 801874
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:59953/session/fd67d5a71502565d68f232dd7b048a9f {}
+DEBUG:urllib3.connectionpool:http://localhost:59953 "DELETE /session/fd67d5a71502565d68f232dd7b048a9f HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60058/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/4.0 (compatible; MSIE 2.0; Windows NT 5.0; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:60058
+DEBUG:urllib3.connectionpool:http://localhost:60058 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60058/session/f8e3fd7401119f40706146ce2fd1d3d3/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=16"}
+DEBUG:urllib3.connectionpool:http://localhost:60058 "POST /session/f8e3fd7401119f40706146ce2fd1d3d3/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:60058/session/f8e3fd7401119f40706146ce2fd1d3d3/source {}
+DEBUG:urllib3.connectionpool:http://localhost:60058 "GET /session/f8e3fd7401119f40706146ce2fd1d3d3/source HTTP/1.1" 200 677635
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:60058/session/f8e3fd7401119f40706146ce2fd1d3d3 {}
+DEBUG:urllib3.connectionpool:http://localhost:60058 "DELETE /session/f8e3fd7401119f40706146ce2fd1d3d3 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60113/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.2.149.29 Safari/525.13"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:60113
+DEBUG:urllib3.connectionpool:http://localhost:60113 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60113/session/d0faf58347ebb6f785d9d16c208f48c7/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=17"}
+DEBUG:urllib3.connectionpool:http://localhost:60113 "POST /session/d0faf58347ebb6f785d9d16c208f48c7/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:60113/session/d0faf58347ebb6f785d9d16c208f48c7/source {}
+DEBUG:urllib3.connectionpool:http://localhost:60113 "GET /session/d0faf58347ebb6f785d9d16c208f48c7/source HTTP/1.1" 200 809349
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:60113/session/d0faf58347ebb6f785d9d16c208f48c7 {}
+DEBUG:urllib3.connectionpool:http://localhost:60113 "DELETE /session/d0faf58347ebb6f785d9d16c208f48c7 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60168/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.19577"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:60168
+DEBUG:urllib3.connectionpool:http://localhost:60168 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60168/session/3797092b58cfcfee9df230e43d6947c5/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=18"}
+DEBUG:urllib3.connectionpool:http://localhost:60168 "POST /session/3797092b58cfcfee9df230e43d6947c5/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:60168/session/3797092b58cfcfee9df230e43d6947c5/source {}
+DEBUG:urllib3.connectionpool:http://localhost:60168 "GET /session/3797092b58cfcfee9df230e43d6947c5/source HTTP/1.1" 200 808752
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:60168/session/3797092b58cfcfee9df230e43d6947c5 {}
+DEBUG:urllib3.connectionpool:http://localhost:60168 "DELETE /session/3797092b58cfcfee9df230e43d6947c5 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60221/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.19582"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:60221
+DEBUG:urllib3.connectionpool:http://localhost:60221 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60221/session/f209f7eb2316dc7123996a795ffe7e48/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=19"}
+DEBUG:urllib3.connectionpool:http://localhost:60221 "POST /session/f209f7eb2316dc7123996a795ffe7e48/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:60221/session/f209f7eb2316dc7123996a795ffe7e48/source {}
+DEBUG:urllib3.connectionpool:http://localhost:60221 "GET /session/f209f7eb2316dc7123996a795ffe7e48/source HTTP/1.1" 200 804985
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:60221/session/f209f7eb2316dc7123996a795ffe7e48 {}
+DEBUG:urllib3.connectionpool:http://localhost:60221 "DELETE /session/f209f7eb2316dc7123996a795ffe7e48 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60270/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X; sv-se) AppleWebKit/418.9 (KHTML, like Gecko) Safari/419.3"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:60270
+DEBUG:urllib3.connectionpool:http://localhost:60270 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60270/session/e19b5f1ac453f934574c0329fd882324/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/?page=20"}
+DEBUG:urllib3.connectionpool:http://localhost:60270 "POST /session/e19b5f1ac453f934574c0329fd882324/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:60270/session/e19b5f1ac453f934574c0329fd882324/source {}
+DEBUG:urllib3.connectionpool:http://localhost:60270 "GET /session/e19b5f1ac453f934574c0329fd882324/source HTTP/1.1" 200 806400
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://localhost:60270/session/e19b5f1ac453f934574c0329fd882324 {}
+DEBUG:urllib3.connectionpool:http://localhost:60270 "DELETE /session/e19b5f1ac453f934574c0329fd882324 HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60564/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14931"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:60564
+DEBUG:urllib3.connectionpool:http://localhost:60564 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60564/session/882101ae412445d4f66c61229487168a/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:60564 "POST /session/882101ae412445d4f66c61229487168a/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:60564/session/882101ae412445d4f66c61229487168a/source {}
+DEBUG:urllib3.connectionpool:http://localhost:60564 "GET /session/882101ae412445d4f66c61229487168a/source HTTP/1.1" 200 835903
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60770/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/522.13.1 (KHTML, like Gecko) Version/3.0.2 Safari/522.13.1"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:60770
+DEBUG:urllib3.connectionpool:http://localhost:60770 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60770/session/5111d083eb2821bf36b25a8a1aac1cf4/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:60770 "POST /session/5111d083eb2821bf36b25a8a1aac1cf4/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:60770/session/5111d083eb2821bf36b25a8a1aac1cf4/source {}
+DEBUG:urllib3.connectionpool:http://localhost:60770 "GET /session/5111d083eb2821bf36b25a8a1aac1cf4/source HTTP/1.1" 200 837078
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60865/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (X11; U; FreeBSD i386; en-US; rv:1.7.7) Gecko/20060303 Firefox/1.0.3"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:60865
+DEBUG:urllib3.connectionpool:http://localhost:60865 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60865/session/9266ad7478c5039c53c0fd445616d507/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:60865 "POST /session/9266ad7478c5039c53c0fd445616d507/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:60865/session/9266ad7478c5039c53c0fd445616d507/source {}
+DEBUG:urllib3.connectionpool:http://localhost:60865 "GET /session/9266ad7478c5039c53c0fd445616d507/source HTTP/1.1" 200 836413
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60929/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17720"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:60929
+DEBUG:urllib3.connectionpool:http://localhost:60929 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60929/session/9254c517a39d30c39422ce8eb79f9818/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:60929 "POST /session/9254c517a39d30c39422ce8eb79f9818/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:60929/session/9254c517a39d30c39422ce8eb79f9818/source {}
+DEBUG:urllib3.connectionpool:http://localhost:60929 "GET /session/9254c517a39d30c39422ce8eb79f9818/source HTTP/1.1" 200 837149
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60991/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Opera/9.80 (X11; Linux i686; U; pl) Presto/2.2.15 Version/10.00"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:60991
+DEBUG:urllib3.connectionpool:http://localhost:60991 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:60991/session/1126424a5354f474236c3742cec9d191/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:60991 "POST /session/1126424a5354f474236c3742cec9d191/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:60991/session/1126424a5354f474236c3742cec9d191/source {}
+DEBUG:urllib3.connectionpool:http://localhost:60991 "GET /session/1126424a5354f474236c3742cec9d191/source HTTP/1.1" 200 835905
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61045/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6; Hotbar 3.0)"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:61045
+DEBUG:urllib3.connectionpool:http://localhost:61045 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61045/session/5734a81ed421c9a0223a2972e6ab19e1/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:61045 "POST /session/5734a81ed421c9a0223a2972e6ab19e1/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:61045/session/5734a81ed421c9a0223a2972e6ab19e1/source {}
+DEBUG:urllib3.connectionpool:http://localhost:61045 "GET /session/5734a81ed421c9a0223a2972e6ab19e1/source HTTP/1.1" 200 836035
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61141/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/4.0 (compatible; MSIE 6.01; Windows NT 6.0)"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:61141
+DEBUG:urllib3.connectionpool:http://localhost:61141 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61141/session/063de44831b2abf9c7388ede0d46bad0/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:61141 "POST /session/063de44831b2abf9c7388ede0d46bad0/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:61141/session/063de44831b2abf9c7388ede0d46bad0/source {}
+DEBUG:urllib3.connectionpool:http://localhost:61141 "GET /session/063de44831b2abf9c7388ede0d46bad0/source HTTP/1.1" 200 837691
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61203/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/4.0.222.5 Safari/532.2"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:61203
+DEBUG:urllib3.connectionpool:http://localhost:61203 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61203/session/f183212105efec81886c31c8746c2c35/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:61203 "POST /session/f183212105efec81886c31c8746c2c35/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:61203/session/f183212105efec81886c31c8746c2c35/source {}
+DEBUG:urllib3.connectionpool:http://localhost:61203 "GET /session/f183212105efec81886c31c8746c2c35/source HTTP/1.1" 200 836604
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61258/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.8.0.7) Gecko/20060921 Ubuntu/dapper-security Firefox/1.5.0.7"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:61258
+DEBUG:urllib3.connectionpool:http://localhost:61258 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61258/session/636041552a5fe18792c06f9507ae808a/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:61258 "POST /session/636041552a5fe18792c06f9507ae808a/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:61258/session/636041552a5fe18792c06f9507ae808a/source {}
+DEBUG:urllib3.connectionpool:http://localhost:61258 "GET /session/636041552a5fe18792c06f9507ae808a/source HTTP/1.1" 200 836849
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61321/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/528.16 (KHTML, like Gecko) Version/4.0 Safari/528.16"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:61321
+DEBUG:urllib3.connectionpool:http://localhost:61321 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61321/session/c188a0e7c8f6d6d8e09abed9c7f1c238/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:61321 "POST /session/c188a0e7c8f6d6d8e09abed9c7f1c238/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:61321/session/c188a0e7c8f6d6d8e09abed9c7f1c238/source {}
+DEBUG:urllib3.connectionpool:http://localhost:61321 "GET /session/c188a0e7c8f6d6d8e09abed9c7f1c238/source HTTP/1.1" 200 837072
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61419/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Chrome (AppleWebKit/537.1; Chrome50.0; Windows NT 6.3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:61419
+DEBUG:urllib3.connectionpool:http://localhost:61419 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61419/session/324be1e30691262b4c93ccb6833c797a/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:61419 "POST /session/324be1e30691262b4c93ccb6833c797a/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:61419/session/324be1e30691262b4c93ccb6833c797a/source {}
+DEBUG:urllib3.connectionpool:http://localhost:61419 "GET /session/324be1e30691262b4c93ccb6833c797a/source HTTP/1.1" 200 835903
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61480/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Q312461; T312461)"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:61480
+DEBUG:urllib3.connectionpool:http://localhost:61480 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61480/session/c66910164a648b4eac6668982b60cc4b/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:61480 "POST /session/c66910164a648b4eac6668982b60cc4b/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:61480/session/c66910164a648b4eac6668982b60cc4b/source {}
+DEBUG:urllib3.connectionpool:http://localhost:61480 "GET /session/c66910164a648b4eac6668982b60cc4b/source HTTP/1.1" 200 836274
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61544/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; ru; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12; MEGAUPLOAD 2.0"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:61544
+DEBUG:urllib3.connectionpool:http://localhost:61544 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61544/session/0084780c746233a25065a38f7b487d6e/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:61544 "POST /session/0084780c746233a25065a38f7b487d6e/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:61544/session/0084780c746233a25065a38f7b487d6e/source {}
+DEBUG:urllib3.connectionpool:http://localhost:61544 "GET /session/0084780c746233a25065a38f7b487d6e/source HTTP/1.1" 200 837300
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61638/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17720"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:61638
+DEBUG:urllib3.connectionpool:http://localhost:61638 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61638/session/538eaf5abca20964afca21ec7fc3b58d/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:61638 "POST /session/538eaf5abca20964afca21ec7fc3b58d/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:61638/session/538eaf5abca20964afca21ec7fc3b58d/source {}
+DEBUG:urllib3.connectionpool:http://localhost:61638 "GET /session/538eaf5abca20964afca21ec7fc3b58d/source HTTP/1.1" 200 835671
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61881/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; hu-hu) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:61881
+DEBUG:urllib3.connectionpool:http://localhost:61881 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61881/session/4248ff739bd8dabfb84525fd9acc92e5/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:61881 "POST /session/4248ff739bd8dabfb84525fd9acc92e5/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:61881/session/4248ff739bd8dabfb84525fd9acc92e5/source {}
+DEBUG:urllib3.connectionpool:http://localhost:61881 "GET /session/4248ff739bd8dabfb84525fd9acc92e5/source HTTP/1.1" 200 837420
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61948/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:61948
+DEBUG:urllib3.connectionpool:http://localhost:61948 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:61948/session/dae4d63c7376bf1796a7ca9c307a1813/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:61948 "POST /session/dae4d63c7376bf1796a7ca9c307a1813/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:61948/session/dae4d63c7376bf1796a7ca9c307a1813/source {}
+DEBUG:urllib3.connectionpool:http://localhost:61948 "GET /session/dae4d63c7376bf1796a7ca9c307a1813/source HTTP/1.1" 200 836852
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62006/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Chrome (AppleWebKit/537.1; Chrome50.0; Windows NT 6.3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:62006
+DEBUG:urllib3.connectionpool:http://localhost:62006 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62006/session/af623788330e3120cbb9327b140e62f9/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:62006 "POST /session/af623788330e3120cbb9327b140e62f9/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:62006/session/af623788330e3120cbb9327b140e62f9/source {}
+DEBUG:urllib3.connectionpool:http://localhost:62006 "GET /session/af623788330e3120cbb9327b140e62f9/source HTTP/1.1" 200 836197
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62145/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; ja-JP) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.3 Safari/533.19.4"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:62145
+DEBUG:urllib3.connectionpool:http://localhost:62145 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62145/session/6e5d3ba208bcf863ab4755109762e1da/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:62145 "POST /session/6e5d3ba208bcf863ab4755109762e1da/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:62145/session/6e5d3ba208bcf863ab4755109762e1da/source {}
+DEBUG:urllib3.connectionpool:http://localhost:62145 "GET /session/6e5d3ba208bcf863ab4755109762e1da/source HTTP/1.1" 200 836849
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62203/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en) AppleWebKit/523.5+ (KHTML, like Gecko) Version/3.0.3 Safari/522.12.1"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:62203
+DEBUG:urllib3.connectionpool:http://localhost:62203 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62203/session/be3731d0e306facbfc0e24c5384c05dc/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:62203 "POST /session/be3731d0e306facbfc0e24c5384c05dc/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:62203/session/be3731d0e306facbfc0e24c5384c05dc/source {}
+DEBUG:urllib3.connectionpool:http://localhost:62203 "GET /session/be3731d0e306facbfc0e24c5384c05dc/source HTTP/1.1" 200 837310
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62260/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (X11; U; OpenBSD i386; en-US; rv:1.8.0.4) Gecko/20060628 Firefox/1.5.0.4"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:62260
+DEBUG:urllib3.connectionpool:http://localhost:62260 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62260/session/39ab66a66320fb4ee13dff051cb37552/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:62260 "POST /session/39ab66a66320fb4ee13dff051cb37552/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:62260/session/39ab66a66320fb4ee13dff051cb37552/source {}
+DEBUG:urllib3.connectionpool:http://localhost:62260 "GET /session/39ab66a66320fb4ee13dff051cb37552/source HTTP/1.1" 200 836553
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62632/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17720"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:62632
+DEBUG:urllib3.connectionpool:http://localhost:62632 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62632/session/ee1dcc33279056285989d2bf44d22b36/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:62632 "POST /session/ee1dcc33279056285989d2bf44d22b36/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:62632/session/ee1dcc33279056285989d2bf44d22b36/source {}
+DEBUG:urllib3.connectionpool:http://localhost:62632 "GET /session/ee1dcc33279056285989d2bf44d22b36/source HTTP/1.1" 200 837673
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62692/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/312.8 (KHTML, like Gecko) Safari/312.3.3"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:62692
+DEBUG:urllib3.connectionpool:http://localhost:62692 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62692/session/2d661ab8a2cdb2ed20af118a93bc8fb1/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:62692 "POST /session/2d661ab8a2cdb2ed20af118a93bc8fb1/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:62692/session/2d661ab8a2cdb2ed20af118a93bc8fb1/source {}
+DEBUG:urllib3.connectionpool:http://localhost:62692 "GET /session/2d661ab8a2cdb2ed20af118a93bc8fb1/source HTTP/1.1" 200 838131
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62772/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (X11; FreeBSD x86_64; rv:2.0) Gecko/20100101 Firefox/3.6.12"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:62772
+DEBUG:urllib3.connectionpool:http://localhost:62772 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62772/session/311ccaeceefd650ddd30917fc5c0b9ef/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:62772 "POST /session/311ccaeceefd650ddd30917fc5c0b9ef/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:62772/session/311ccaeceefd650ddd30917fc5c0b9ef/source {}
+DEBUG:urllib3.connectionpool:http://localhost:62772 "GET /session/311ccaeceefd650ddd30917fc5c0b9ef/source HTTP/1.1" 200 835748
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62814/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/4.0.208.0 Safari/532.0"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:62814
+DEBUG:urllib3.connectionpool:http://localhost:62814 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62814/session/87bb1e6496f3d5600f6a805aa1660b33/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:62814 "POST /session/87bb1e6496f3d5600f6a805aa1660b33/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:62814/session/87bb1e6496f3d5600f6a805aa1660b33/source {}
+DEBUG:urllib3.connectionpool:http://localhost:62814 "GET /session/87bb1e6496f3d5600f6a805aa1660b33/source HTTP/1.1" 200 836851
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62909/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X; es-ES) AppleWebKit/412 (KHTML, like Gecko) Safari/412"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:62909
+DEBUG:urllib3.connectionpool:http://localhost:62909 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62909/session/acc466df586f2d4cd83fa6a3ba7786f3/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:62909 "POST /session/acc466df586f2d4cd83fa6a3ba7786f3/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:62909/session/acc466df586f2d4cd83fa6a3ba7786f3/source {}
+DEBUG:urllib3.connectionpool:http://localhost:62909 "GET /session/acc466df586f2d4cd83fa6a3ba7786f3/source HTTP/1.1" 200 709400
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62964/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Opera/8.54 (Windows 98; U; en)"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:62964
+DEBUG:urllib3.connectionpool:http://localhost:62964 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:62964/session/6e28d91e285eb0fb5b461fae27904704/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:62964 "POST /session/6e28d91e285eb0fb5b461fae27904704/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:62964/session/6e28d91e285eb0fb5b461fae27904704/source {}
+DEBUG:urllib3.connectionpool:http://localhost:62964 "GET /session/6e28d91e285eb0fb5b461fae27904704/source HTTP/1.1" 200 837646
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63019/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.11  [de]"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:63019
+DEBUG:urllib3.connectionpool:http://localhost:63019 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63019/session/47e65d5bfc20aea362dc691a206ca225/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:63019 "POST /session/47e65d5bfc20aea362dc691a206ca225/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:63019/session/47e65d5bfc20aea362dc691a206ca225/source {}
+DEBUG:urllib3.connectionpool:http://localhost:63019 "GET /session/47e65d5bfc20aea362dc691a206ca225/source HTTP/1.1" 200 709242
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63123/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.3) Gecko/20090913 Firefox/3.5.3"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:63123
+DEBUG:urllib3.connectionpool:http://localhost:63123 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63123/session/afe9decf6274773890c0f0b52c0f6b1d/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:63123 "POST /session/afe9decf6274773890c0f0b52c0f6b1d/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:63123/session/afe9decf6274773890c0f0b52c0f6b1d/source {}
+DEBUG:urllib3.connectionpool:http://localhost:63123 "GET /session/afe9decf6274773890c0f0b52c0f6b1d/source HTTP/1.1" 200 836448
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63166/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.1 Safari/525.17"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:63166
+DEBUG:urllib3.connectionpool:http://localhost:63166 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63166/session/448092ad7896cbf0ef4e768ed3ed9808/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:63166 "POST /session/448092ad7896cbf0ef4e768ed3ed9808/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:63166/session/448092ad7896cbf0ef4e768ed3ed9808/source {}
+DEBUG:urllib3.connectionpool:http://localhost:63166 "GET /session/448092ad7896cbf0ef4e768ed3ed9808/source HTTP/1.1" 200 838235
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63267/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1b3) Gecko/20090327 GNU/Linux/x86_64 Firefox/3.1"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:63267
+DEBUG:urllib3.connectionpool:http://localhost:63267 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63267/session/897505418a84b9df63276dba549e3d3d/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:63267 "POST /session/897505418a84b9df63276dba549e3d3d/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:63267/session/897505418a84b9df63276dba549e3d3d/source {}
+DEBUG:urllib3.connectionpool:http://localhost:63267 "GET /session/897505418a84b9df63276dba549e3d3d/source HTTP/1.1" 200 837812
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63335/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1) Gecko/20061128 Firefox/2.0"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:63335
+DEBUG:urllib3.connectionpool:http://localhost:63335 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63335/session/2285eef43f1f62a0c4d5edef0d96e918/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:63335 "POST /session/2285eef43f1f62a0c4d5edef0d96e918/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:63335/session/2285eef43f1f62a0c4d5edef0d96e918/source {}
+DEBUG:urllib3.connectionpool:http://localhost:63335 "GET /session/2285eef43f1f62a0c4d5edef0d96e918/source HTTP/1.1" 200 836601
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63437/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/4.0.222.12 Safari/532.2"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:63437
+DEBUG:urllib3.connectionpool:http://localhost:63437 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63437/session/efd20d9cd777fb872473bff20899508e/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:63437 "POST /session/efd20d9cd777fb872473bff20899508e/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:63437/session/efd20d9cd777fb872473bff20899508e/source {}
+DEBUG:urllib3.connectionpool:http://localhost:63437 "GET /session/efd20d9cd777fb872473bff20899508e/source HTTP/1.1" 200 836735
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63495/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_3; nl-nl) AppleWebKit/527+ (KHTML, like Gecko) Version/3.1.1 Safari/525.20"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:63495
+DEBUG:urllib3.connectionpool:http://localhost:63495 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63495/session/78b2320c926a680060ca392a667c6dd3/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:63495 "POST /session/78b2320c926a680060ca392a667c6dd3/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:63495/session/78b2320c926a680060ca392a667c6dd3/source {}
+DEBUG:urllib3.connectionpool:http://localhost:63495 "GET /session/78b2320c926a680060ca392a667c6dd3/source HTTP/1.1" 200 836454
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63545/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.1; DigExt)"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:63545
+DEBUG:urllib3.connectionpool:http://localhost:63545 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63545/session/4ef521fbe5516e3534266b7de2d9fc68/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:63545 "POST /session/4ef521fbe5516e3534266b7de2d9fc68/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:63545/session/4ef521fbe5516e3534266b7de2d9fc68/source {}
+DEBUG:urllib3.connectionpool:http://localhost:63545 "GET /session/4ef521fbe5516e3534266b7de2d9fc68/source HTTP/1.1" 200 837711
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63663/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Wanadoo 5.6)"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:63663
+DEBUG:urllib3.connectionpool:http://localhost:63663 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63663/session/5a315ac1df23a740af74e4a797b1cc1a/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:63663 "POST /session/5a315ac1df23a740af74e4a797b1cc1a/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:63663/session/5a315ac1df23a740af74e4a797b1cc1a/source {}
+DEBUG:urllib3.connectionpool:http://localhost:63663 "GET /session/5a315ac1df23a740af74e4a797b1cc1a/source HTTP/1.1" 200 836448
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63768/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.0  [de]"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:63768
+DEBUG:urllib3.connectionpool:http://localhost:63768 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63768/session/46cdd7af6274a9a8672de6fb22b6c12d/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:63768 "POST /session/46cdd7af6274a9a8672de6fb22b6c12d/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:63768/session/46cdd7af6274a9a8672de6fb22b6c12d/source {}
+DEBUG:urllib3.connectionpool:http://localhost:63768 "GET /session/46cdd7af6274a9a8672de6fb22b6c12d/source HTTP/1.1" 200 836786
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63886/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Opera/8.01 (Macintosh; PPC Mac OS X; U; en)"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:63886
+DEBUG:urllib3.connectionpool:http://localhost:63886 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:63886/session/6a1c529edd95369bc8d2739a6163760f/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:63886 "POST /session/6a1c529edd95369bc8d2739a6163760f/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:63886/session/6a1c529edd95369bc8d2739a6163760f/source {}
+DEBUG:urllib3.connectionpool:http://localhost:63886 "GET /session/6a1c529edd95369bc8d2739a6163760f/source HTTP/1.1" 200 837262
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:64198/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (X11; U; Linux i686; fr-FR; rv:1.7.10) Gecko/20050716 Firefox/1.0.6"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:64198
+DEBUG:urllib3.connectionpool:http://localhost:64198 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:64198/session/20d2fab6b72b58b5739600bdf1f19acd/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:64198 "POST /session/20d2fab6b72b58b5739600bdf1f19acd/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:64198/session/20d2fab6b72b58b5739600bdf1f19acd/source {}
+DEBUG:urllib3.connectionpool:http://localhost:64198 "GET /session/20d2fab6b72b58b5739600bdf1f19acd/source HTTP/1.1" 200 836600
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:64244/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.4) Gecko/20060629 Firefox/1.5.0.4"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:64244
+DEBUG:urllib3.connectionpool:http://localhost:64244 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:64244/session/5815235b33022f5cd3e800749b8a241c/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:64244 "POST /session/5815235b33022f5cd3e800749b8a241c/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:64244/session/5815235b33022f5cd3e800749b8a241c/source {}
+DEBUG:urllib3.connectionpool:http://localhost:64244 "GET /session/5815235b33022f5cd3e800749b8a241c/source HTTP/1.1" 200 836606
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:64293/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptInsecureCerts": true, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "acceptSslCerts": true, "acceptInsecureCerts": true, "loggingPrefs": {"browser": "ALL"}, "chromeOptions": {"args": ["--disable-extensions", "--start-maximized"], "headers": {"User-Agent": "Mozilla/5.0 (Windows NT 5.2; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41 Safari/535.1"}}, "goog:chromeOptions": {"extensions": [], "args": ["user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"]}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:64293
+DEBUG:urllib3.connectionpool:http://localhost:64293 "POST /session HTTP/1.1" 200 867
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://localhost:64293/session/637f1c60ce1b16762f811a8200a589a9/url {"url": "https://www.rentcafe.com/apartments-for-rent/us/il/chicago/"}
+DEBUG:urllib3.connectionpool:http://localhost:64293 "POST /session/637f1c60ce1b16762f811a8200a589a9/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://localhost:64293/session/637f1c60ce1b16762f811a8200a589a9/source {}
+DEBUG:urllib3.connectionpool:http://localhost:64293 "GET /session/637f1c60ce1b16762f811a8200a589a9/source HTTP/1.1" 200 836907
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
